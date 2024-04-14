@@ -26,7 +26,7 @@ boxes.forEach((box) => {
         console.log("box was clicked")
         if (turn0) {
             box.innerText = '0';
-            turn0 = false
+            turn0 = falsae
         }
         else {
             box.innerText = "X"
